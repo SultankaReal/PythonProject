@@ -1,0 +1,1 @@
+bank_list = ['sberbank', 'alfabank', 'smpbank', 'mkb']
